@@ -1,0 +1,19 @@
+body{
+    background-color: red;
+}
+
+h1{
+    background-color:red;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    
+}
+
+#film{
+    display: flex;
+    background-origin: padding-box;
+    cursor: pointer;
+    font-style: italic;
+    font-display: bold;
+}
