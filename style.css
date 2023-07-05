@@ -17,3 +17,8 @@ h1{
     font-style: italic;
     font-display: bold;
 }
+
+h2{
+    font-style: italic;
+    text-align: left;
+}
